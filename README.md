@@ -28,3 +28,5 @@ The file/Deep_Bayesian_Encoder_Decoder/args.py contains all arguments of the net
 The file /Deep_Bayesian_Encoder_Decoder/post_processing.py performs the Uncertainty Quantification and plots a prediction of the network at a certain location, as well as performing and plotting the uncertainty distribution at a specific location and the reliability diagram of the network.
 Therefore the file /Deep_Bayesian_Encoder_Decoder/uq.py is utilized.
 
+To run the training the file use /Deep_Bayesian_Encoder_Decoder/train_svgd.py.
+
